@@ -1,9 +1,15 @@
 body {
   min-height: 2500px;
 }
+
+.navbar {
+  font-weight: 700;
+}
+
 .jumbotron {
   padding-top: 8rem;
-  background-color: #dc3545;
+  background-image: url(img/mediamodifier-nCk22aqZjlM-unsplash.jpg);
+  background-size: cover;
 }
 
 #projects {
