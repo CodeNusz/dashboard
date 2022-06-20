@@ -7,13 +7,31 @@ body {
 }
 
 .jumbotron {
-  padding-top: 8rem;
+  padding-top: 22rem;
   background-image: url(img/mediamodifier-nCk22aqZjlM-unsplash.jpg);
   background-size: cover;
+  background-position: center;
+}
+
+#about {
+  background-image: url(img/white-triangle-369b8d2d.jpg);
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 8rem;
 }
 
 #projects {
-  background-color: #dc3545;
+  padding-top: 5rem;
+  background-image: url(img/rm218batch7-katie-51.jpg);
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 6rem;
+}
+
+#contact {
+  background-image: url(img/360_F_325042666_bTtMGdrAiRu2nV1zo57SjdhmeMd9pgZG.jpg);
+  background-size: cover;
+  background-position: center;
 }
 
 section {
