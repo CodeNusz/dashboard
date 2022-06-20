@@ -7,7 +7,7 @@ body {
 }
 
 .jumbotron {
-  padding-top: 22rem;
+  padding-top: 18rem;
   background-image: url(img/mediamodifier-nCk22aqZjlM-unsplash.jpg);
   background-size: cover;
   background-position: center;
@@ -17,7 +17,7 @@ body {
   background-image: url(img/white-triangle-369b8d2d.jpg);
   background-size: cover;
   background-position: center;
-  padding-bottom: 8rem;
+  padding: 8rem;
 }
 
 #projects {
