@@ -6,6 +6,15 @@ body {
   font-weight: 700;
 }
 
+.nav-color {
+  background-color: #ffffff;
+  transition: all ease-in-out 0.3s;
+}
+
+.bg-transparent {
+  transition: all ease-in 0.3s;
+}
+
 .jumbotron {
   padding-top: 18rem;
   background-image: url(img/mediamodifier-nCk22aqZjlM-unsplash.jpg);
