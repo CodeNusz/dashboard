@@ -16,7 +16,8 @@ body {
 }
 
 .jumbotron {
-  padding-top: 18rem;
+  padding-top: 12rem;
+  padding-bottom: 6rem;
   background-image: url(img/Background/OfiiceTable.jpg);
   background-size: cover;
   background-position: center;
@@ -26,7 +27,8 @@ body {
   background-image: url(img/Background/white-triangle-369b8d2d.jpg);
   background-size: cover;
   background-position: center;
-  padding: 8rem;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
 }
 
 #projects {
@@ -34,7 +36,7 @@ body {
   background-image: url(img/Background/BlackLeaf.jpg);
   background-size: cover;
   background-position: center;
-  padding-bottom: 6rem;
+  padding-bottom: 5rem;
 }
 
 #contact {
